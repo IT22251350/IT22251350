@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pamalka Nethmani
+### Hi there 👋, My name is Pamalka Nethmani
 #### I am SLIIT Undergraduate student 
  I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing ,  design in general
 
